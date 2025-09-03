@@ -1,7 +1,7 @@
 # ECSE-6410-Pattern-Recognition-Project
 
 
-### Predicting Steering Angles in a Simulator Using CNNs
+### Predicting Steering Angles in a Simulator
 
 #### Images (8037)
 
