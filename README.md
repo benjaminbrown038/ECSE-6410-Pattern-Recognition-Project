@@ -1,6 +1,8 @@
 # ECSE-6410-Pattern-Recognition-Project
 
 
+## 1. Data
+
 ### Predicting Steering Angles in a Simulator
 
 #### Images (8037)
@@ -20,3 +22,9 @@
 ##### 4. Brake (Boolean, reverse or not)
 
 ##### 5. Speed 
+
+## 2. Models 
+
+## 3. Training
+
+# Plot Results 
